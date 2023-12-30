@@ -1,4 +1,4 @@
-Dice Game README
+# Dice Game
 Introduction
 
 Welcome to the Dice Game, a simple yet engaging web-based game where two players roll dice to determine the winner. This game is perfect for those who enjoy chance-based games and a touch of competition.
